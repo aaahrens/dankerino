@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dankerino/static/css/main.d1b05096.chunk.css",
+    "main.js": "/dankerino/static/js/main.3f79a248.chunk.js",
+    "main.js.map": "/dankerino/static/js/main.3f79a248.chunk.js.map",
+    "runtime-main.js": "/dankerino/static/js/runtime-main.d48a9567.js",
+    "runtime-main.js.map": "/dankerino/static/js/runtime-main.d48a9567.js.map",
+    "static/js/2.7591ced8.chunk.js": "/dankerino/static/js/2.7591ced8.chunk.js",
+    "static/js/2.7591ced8.chunk.js.map": "/dankerino/static/js/2.7591ced8.chunk.js.map",
+    "index.html": "/dankerino/index.html",
+    "precache-manifest.71366c604fbbb7e8402149f7209e6a68.js": "/dankerino/precache-manifest.71366c604fbbb7e8402149f7209e6a68.js",
+    "service-worker.js": "/dankerino/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/dankerino/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7591ced8.chunk.js.LICENSE": "/dankerino/static/js/2.7591ced8.chunk.js.LICENSE",
+    "static/media/logo.svg": "/dankerino/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d48a9567.js",
+    "static/js/2.7591ced8.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3f79a248.chunk.js"
+  ]
+}
