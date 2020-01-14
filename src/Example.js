@@ -2,11 +2,7 @@ import * as React from "react";
 
 
 export class Example extends React.Component  {
-
-    item  = {
-        name: "nameerino",
-        count: "2"
-    };
+    
 
     render(){
         return(
